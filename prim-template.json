@@ -1,0 +1,35 @@
+{
+  "@module": "string",
+  "@class": "string",
+  "charge": "number",
+  "lattice": {
+    "matrix": [
+      ["number", "number", "number"],
+      ["number", "number", "number"],
+      ["number", "number", "number"]
+    ],
+    "a": "number",
+    "b": "number",
+    "c": "number",
+    "alpha": "number",
+    "beta": "number",
+    "gamma": "number",
+    "volume": "number"
+  },
+  "sites": [
+    {
+      "species": [
+        {
+          "element": "string",
+          "oxidation_state": "number",
+          "occu": "number"
+        }
+      ],
+      "abc": ["number", "number", "number"],
+      "xyz": ["number", "number", "number"],
+      "label": "string",
+      "properties": {}
+    }
+  ],
+  "@version": "string | null"
+}
