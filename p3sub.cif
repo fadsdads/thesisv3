@@ -30,6 +30,9 @@ loop_
     V       +3
     Cr      +3
     Cu      +2
+    Zn      +2
+    Y       +3
+    Ge      +4
 loop_
     _atom_site_label
     _atom_site_type_symbol
